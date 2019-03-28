@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm audit-fix`
+### `npm audit fix`
 
 if you have any issues with project start
 
